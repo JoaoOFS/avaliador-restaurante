@@ -39,8 +39,8 @@ Um sistema moderno de avaliação de restaurantes desenvolvido com Laravel e Tai
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/criterio-gourmet.git
-cd criterio-gourmet
+git clone https://github.com/seu-usuario/avaliador-restaurante.git
+cd avaliador-restaurante
 ```
 
 2. Instale as dependências do PHP:
@@ -154,9 +154,11 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📧 Contato
 
-Seu Nome - [@seu_twitter](https://twitter.com/seu_twitter) - email@exemplo.com
+João Otavio Ferraz
+E-mail: joao.lsd@hotmail.com
+Linkedin: [João O. F. Silva](https://www.linkedin.com/in/joaoofs/)
 
-Link do Projeto: [https://github.com/seu-usuario/criterio-gourmet](https://github.com/seu-usuario/criterio-gourmet)
+Link do Projeto: [https://github.com/JoaoOFS/avaliador-restaurante](https://github.com/JoaoOFS/avaliador-restaurante)
 
 ## 🙏 Agradecimentos
 
